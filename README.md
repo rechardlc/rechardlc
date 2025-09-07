@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Richard Liu👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I'm+a+Front+end+developer+%3A)" alt="Typing SVG" />
@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-**Hi there, I am [Your Name]** 😊
+**Hi there, I am Richard Liu** 😊
 
 🌱 A frontend developer from China  
 🎯 **Learning:** Web3 Development, Smart Contracts  
-💻 **Focus:** React, Next.js, TypeScript, Blockchain  
+💻 **Focus:** Vue, Nuxt.js, React, Next.js, TypeScript, Blockchain  
 
 ## 🛠️ Tech Stack
 
